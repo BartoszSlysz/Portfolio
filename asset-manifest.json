@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.5a92376a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5a92376a.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.d2c72ea2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d2c72ea2.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d3ebe2ed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d3ebe2ed.js.map",
-    "static/js/2.d21507cb.chunk.js": "/Portfolio/static/js/2.d21507cb.chunk.js",
-    "static/js/2.d21507cb.chunk.js.map": "/Portfolio/static/js/2.d21507cb.chunk.js.map",
+    "static/js/2.628ee367.chunk.js": "/Portfolio/static/js/2.628ee367.chunk.js",
+    "static/js/2.628ee367.chunk.js.map": "/Portfolio/static/js/2.628ee367.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.2ec65c7cf751785aff1dafa864da807e.js": "/Portfolio/precache-manifest.2ec65c7cf751785aff1dafa864da807e.js",
+    "precache-manifest.6ede5c30ac48fcff8edf375100597845.js": "/Portfolio/precache-manifest.6ede5c30ac48fcff8edf375100597845.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/js/2.d21507cb.chunk.js.LICENSE": "/Portfolio/static/js/2.d21507cb.chunk.js.LICENSE",
+    "static/js/2.628ee367.chunk.js.LICENSE": "/Portfolio/static/js/2.628ee367.chunk.js.LICENSE",
+    "static/media/DWD Animation.gif": "/Portfolio/static/media/DWD Animation.d97f264e.gif",
     "static/media/bg-header-about-me.webp": "/Portfolio/static/media/bg-header-about-me.edfdebf3.webp",
     "static/media/bg-timeline-why-timeline.webp": "/Portfolio/static/media/bg-timeline-why-timeline.c87d0739.webp",
     "static/media/crwn-clothing-gif.gif": "/Portfolio/static/media/crwn-clothing-gif.4fd749aa.gif",
     "static/media/flex-ss.png": "/Portfolio/static/media/flex-ss.f132aacd.png",
+    "static/media/iTunes Animation.gif": "/Portfolio/static/media/iTunes Animation.2cadb4d8.gif",
     "static/media/logo-me.jpg": "/Portfolio/static/media/logo-me.d5f38992.jpg",
     "static/media/natoure-gif.gif": "/Portfolio/static/media/natoure-gif.9c90d604.gif",
     "static/media/nexter-gif.gif": "/Portfolio/static/media/nexter-gif.c78ee49a.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.d3ebe2ed.js",
-    "static/js/2.d21507cb.chunk.js",
-    "static/js/main.5a92376a.chunk.js"
+    "static/js/2.628ee367.chunk.js",
+    "static/js/main.d2c72ea2.chunk.js"
   ]
 }

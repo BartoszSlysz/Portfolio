@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d94f36e7dee5dfc53d2d6e89d431a384",
+    "revision": "3b92c75f61cdd0257f754160d518a888",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "d10132254dab87e3938c",
-    "url": "/Portfolio/static/js/2.d21507cb.chunk.js"
+    "revision": "58e148a63aaa30d485fe",
+    "url": "/Portfolio/static/js/2.628ee367.chunk.js"
   },
   {
     "revision": "fd228f9b9a68ce6b23a6cf8b0a38a0e3",
-    "url": "/Portfolio/static/js/2.d21507cb.chunk.js.LICENSE"
+    "url": "/Portfolio/static/js/2.628ee367.chunk.js.LICENSE"
   },
   {
-    "revision": "0bbc43cac2a2c1131eee",
-    "url": "/Portfolio/static/js/main.5a92376a.chunk.js"
+    "revision": "1e2a51bde1fabdc9c65d",
+    "url": "/Portfolio/static/js/main.d2c72ea2.chunk.js"
   },
   {
     "revision": "6a58a16603ebe426610b",
     "url": "/Portfolio/static/js/runtime-main.d3ebe2ed.js"
+  },
+  {
+    "revision": "d97f264ea3c354ed99f960650d90fea4",
+    "url": "/Portfolio/static/media/DWD Animation.d97f264e.gif"
   },
   {
     "revision": "edfdebf34406e971df66bbaba609655b",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f132aacd8eb766bd0e04c16736235346",
     "url": "/Portfolio/static/media/flex-ss.f132aacd.png"
+  },
+  {
+    "revision": "2cadb4d8f63f0da3afe9c991fbe6ba0c",
+    "url": "/Portfolio/static/media/iTunes Animation.2cadb4d8.gif"
   },
   {
     "revision": "d5f38992ee358a0f9de2f0fdb7a69679",
