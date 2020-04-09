@@ -4,7 +4,7 @@ import {
   TimelinePage,
   TimelinePageHeader,
   TimelineInfo,
-  TimelineInfoDescription
+  TimelineInfoDescription,
 } from "./timeline.page.styles";
 import Cart from "../../components/cartInfo/cart.component";
 
@@ -109,7 +109,9 @@ const Timeline = () => {
         />
         <Cart
           date={"February 2019"}
-          description={"IV place in hackathon 'Hackerz Rzeszow' which took place at Jasionka"}
+          description={
+            "IV place in hackathon 'Hackerz Rzeszow' which took place at Jasionka"
+          }
           platform="Front-End"
           right={rightFalse}
         />
@@ -174,6 +176,35 @@ const Timeline = () => {
           platformTitle="Repo Link"
           bgLink={true}
           right={rightFalse}
+        />
+        <Cart
+          date={"April 2020"}
+          platform="WEB"
+          description={
+            "Programmed, tested and provided static webstie about child's holiday"
+          }
+          link="https://github.com/Bartoszkie/DWD"
+          platformTitle="Repo Link"
+          bgLink={true}
+          right={rightTrue}
+        />
+        <Cart
+          date={"June 2020"}
+          platform="WEB"
+          description={"Started learning backend with Node.js"}
+          link="https://github.com/Bartoszkie/E---kancelaria"
+          platformTitle="Repo Link"
+          bgLink={true}
+          right={rightFalse}
+        />
+        <Cart
+          date={"April 2020"}
+          platform="React.js"
+          description={"Created simple and funny recruitmet app for TryCodnet"}
+          link="https://github.com/Bartoszkie/Try-Codnet---recruitment-"
+          platformTitle="Repo Link"
+          bgLink={true}
+          right={rightTrue}
         />
       </TimelineContainer>
     </TimelinePage>

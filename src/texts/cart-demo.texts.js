@@ -19,3 +19,11 @@ export const CartDemoFloats = `
 export const CartDemoECancelary = `
 So, E-Cancelary was just a first start with Node.js backend. I wanted to look under another angle on fullstack apps. Lately I used to make such apps using Spring Boot (Java). But since I am quite better at JS rather than Java I've given it a try. I'm not quite fully satisfied about this app, it needs to be repaired but hey, I wasn't telling You that it is finished right? 
 `;
+
+export const DWDProject = `
+DWD in Polish stands for "Dom Wczasów Dziecięcych". It is a commercial static website which I've developed.  
+`;
+
+export const iTunesProject = `
+Simple React.js App that helps user to search and find all kinds of songs in iTunes library. 
+`;

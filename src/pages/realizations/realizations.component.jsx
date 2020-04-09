@@ -3,9 +3,10 @@ import CartDemo from "../../components/cartDemo/cart-demo.component";
 import {
   CartDemoText1,
   CartDemoCSSGrid,
-  CartDemoECancelary,
   CartDemoFlexBox,
-  CartDemoFloats
+  CartDemoFloats,
+  DWDProject,
+  iTunesProject
 } from "../.././texts/cart-demo.texts";
 
 import {
@@ -13,13 +14,15 @@ import {
   RealizationsHeader,
   RealizationsContent,
   RealizationsH2,
-  RealizationsP
+  RealizationsP,
 } from "./realizations.styles";
 
 import CrwnSS from "../../assets/IMG/crwn-clothing-gif.gif";
 import NexterSS from "../../assets/IMG/nexter-gif.gif";
 import NatoureSS from "../../assets/IMG/natoure-gif.gif";
 import TrelloSS from "../../assets/IMG/flex-ss.png";
+import DWDSS from "../../assets/IMG/DWD Animation.gif";
+import iTunesSS from "../../assets/IMG/iTunes Animation.gif";
 
 const Realizations = () => {
   return (
@@ -59,6 +62,20 @@ const Realizations = () => {
           title="CSS GRID Project"
           description={CartDemoCSSGrid}
           tech="HTML 5,SASS"
+        />
+        <CartDemo
+          img={DWDSS}
+          repo="https://bartoszkie.github.io/DWD/"
+          title="DWD Project"
+          description={DWDProject}
+          tech="HTML 5,SASS,JavaScript(ES6+)"
+        />
+        <CartDemo
+          img={iTunesSS}
+          repo="https://bartoszkie.github.io/iTunes-Application/"
+          title="iTunes search App"
+          description={iTunesProject}
+          tech="React.js,Styled-Components,SASS"
         />
       </RealizationsContent>
     </RealizationsContainer>
