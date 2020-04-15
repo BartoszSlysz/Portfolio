@@ -169,7 +169,7 @@ const Timeline = () => {
           right={rightTrue}
         />
         <Cart
-          date={"November 2019 - present"}
+          date={"July 2019 - present"}
           platform="Everything"
           description={"Started learning React.js"}
           link="https://github.com/Bartoszkie/E---kancelaria"
