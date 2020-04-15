@@ -16,8 +16,8 @@ import {
   NavbarDiv,
   MenuListFooter,
   MenuLink,
-  ContactDetails, 
-  ContactDetailsMobile
+  ContactDetails,
+  ContactDetailsMobile,
 } from "./navbar.styles";
 import Hamburger from "../hamburger/hamburger.component";
 import LogoMe from "../../assets/IMG/logo-me.jpg";
@@ -68,16 +68,16 @@ const Navbar = () => {
           <ContactDetails>
             <p>Contact</p>
             <span>
-              <i className="fas fa-envelope-open-text"></i> bartek.slysz@gmail.com
+              <i className="fas fa-envelope-open-text"></i>{" "}
+              <a href="mailto:bartek.slysz@gmail.com">bartek.slysz@gmail.com</a>
             </span>
             <span>
-              <i className="fas fa-phone"></i> +48 662 920 264
+              <i className="fas fa-phone"></i>{" "}
+              <a href="tel:+48 662 920 264">+48 662 920 264</a>
             </span>
             <span>
               <i className="fab fa-github"></i>
-              <a href="https://github.com/Bartoszkie">
-                My Github
-              </a>
+              <a href="https://github.com/Bartoszkie">My Github</a>
             </span>
           </ContactDetails>
         </MenuListFooter>
@@ -118,16 +118,18 @@ const Navbar = () => {
             <ContactDetailsMobile>
               <p>Contact</p>
               <span>
-                <i className="fas fa-envelope-open-text"></i> bartek.slysz@gmail.com
+                <i className="fas fa-envelope-open-text"></i>{" "}
+                <a href="mailto:bartek.slysz@gmail.com">
+                  bartek.slysz@gmail.com
+                </a>
               </span>
               <span>
-                <i className="fas fa-phone"></i> +48 662 920 264
+                <i className="fas fa-phone"></i>{" "}
+                <a href="tel:+48 662 920 264">+48 662 920 264</a>
               </span>
               <span>
                 <i className="fab fa-github"></i>
-                <a href="https://github.com/Bartoszkie">
-                  My Github
-                </a>
+                <a href="https://github.com/Bartoszkie">My Github</a>
               </span>
             </ContactDetailsMobile>
           </MobileListItem>
