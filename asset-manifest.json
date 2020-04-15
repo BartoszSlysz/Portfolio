@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.d30177fa.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d30177fa.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.0aef012b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0aef012b.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d3ebe2ed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d3ebe2ed.js.map",
     "static/js/2.628ee367.chunk.js": "/Portfolio/static/js/2.628ee367.chunk.js",
     "static/js/2.628ee367.chunk.js.map": "/Portfolio/static/js/2.628ee367.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.e91ca40f7d8044d6edc91ffa59ff6396.js": "/Portfolio/precache-manifest.e91ca40f7d8044d6edc91ffa59ff6396.js",
+    "precache-manifest.aa52e0f42ae04d929e3fedabdcc2f469.js": "/Portfolio/precache-manifest.aa52e0f42ae04d929e3fedabdcc2f469.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/js/2.628ee367.chunk.js.LICENSE": "/Portfolio/static/js/2.628ee367.chunk.js.LICENSE",
     "static/media/DWD Animation.gif": "/Portfolio/static/media/DWD Animation.d97f264e.gif",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.d3ebe2ed.js",
     "static/js/2.628ee367.chunk.js",
-    "static/js/main.d30177fa.chunk.js"
+    "static/js/main.0aef012b.chunk.js"
   ]
 }
